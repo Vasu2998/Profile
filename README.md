@@ -1,4 +1,3 @@
-
 👋 Hi there!
 
 I'm Vasu Hirpara, a DevOps & SRE Engineer from 🇮🇳 with 2+ years of experience in building secure, cloud-native, AI-enhanced, and automated infrastructure.
@@ -6,27 +5,65 @@ I specialize in Cloud Security, Platform Reliability, Observability, and AI-driv
 
 ## 🚀 What I Work With
 
-### 🛠️ DevOps & SRE
-- CI/CD: GitHub Actions, GitLab CI/CD, Jenkins
-- IaC: Terraform, Ansible
-- Containers: Docker, Kubernetes
-- Monitoring: Prometheus, Grafana, ELK Stack
-- Incident Management, SLIs/SLOs, Error Budgets
+### 🛠️ DevOps, SRE & Automation
+- CI/CD: GitHub Actions, GitLab CI, Jenkins
 
-### ☁️ Cloud Platforms
+- IaC: Terraform, Ansible
+
+- Containers & Orchestration: Docker, Kubernetes
+
+- Automation & Scripting: Bash, Shell, Python
+
+- Web Infra: NGINX, SSL/TLS, Reverse Proxying
+
+### ☁️ Cloud Security & AI in DevSecOps
+- Security Tools: AWS GuardDuty, Inspector, SecurityHub, WAF, IAM Analyzer
+
+- SIEM/Log Analysis: ELK Stack, OpenSearch, CloudWatch Logs
+
+- Vulnerability Scanning: Trivy, Clair, Kubernetes Bench
+
+- AI Ops: Log anomaly detection, AI-based alert classification, LLM-assisted troubleshooting
+
+- Threat Modeling, Least Privilege, Secrets Management
+-   
+  ### ☁️ Cloud Platforms
 - AWS, Azure, GCP
-- VPC, IAM, Load Balancing, Auto Scaling
-- Backup & Disaster Recovery
-- Cost Optimization & Security Best Practices
+  
+- VPC Design, IAM, Load Balancers, ASGs
+  
+- Backup, DR, Infra Security Hardening
+  
+- Cost Optimization, Resource Governance
+  
+### 📈 Monitoring, Observability & Reliability
+
+- Prometheus, Grafana, Alertmanager
+
+- Loki, ELK Stack, CloudWatch, Azure Monitor
+
+- SLIs, SLOs, Error Budgets
+
+- Incident Response & Root Cause Analysis
 
 ### 🖥️ Systems & Automation
+
 - Linux (Ubuntu, Red Hat – RHCSA Certified)
+  
 - Bash, Shell scripting, Python
+  
 - Web Infrastructure: NINX, SSL, HA setups
+  
 - Databases: PostgreSQL, MySQL
+  
+- Process, networking, service debugging
+
+- System hardening & performance tuning
 
 ## 📫 How to Reach Me
+
 - 💼 [Connect on LinkedIn](http://www.linkedin.com/in/vasu-hirpara/)
+  
 - 💌 [Email Me](mailto:vasuhirpara2998@gmail.com)
 
 
