@@ -1,7 +1,8 @@
 
-# 👋 Hi there!
+👋 Hi there!
 
-I'm **Vasu Hirpara**, a DevOps & SRE Engineer from 🇮🇳 with 2+ years of experience in building cloud-native, automated, and resilient infrastructure. I’m passionate about simplifying operations, improving system reliability, and accelerating software delivery through DevOps and SRE best practices.
+I'm Vasu Hirpara, a DevOps & SRE Engineer from 🇮🇳 with 2+ years of experience in building secure, cloud-native, AI-enhanced, and automated infrastructure.
+I specialize in Cloud Security, Platform Reliability, Observability, and AI-driven Ops to make systems faster, safer, and easier to operate.
 
 ## 🚀 What I Work With
 
@@ -21,16 +22,12 @@ I'm **Vasu Hirpara**, a DevOps & SRE Engineer from 🇮🇳 with 2+ years of exp
 ### 🖥️ Systems & Automation
 - Linux (Ubuntu, Red Hat – RHCSA Certified)
 - Bash, Shell scripting, Python
-- Web Infrastructure: NGINX, SSL, HA setups
+- Web Infrastructure: NINX, SSL, HA setups
 - Databases: PostgreSQL, MySQL
 
 ## 📫 How to Reach Me
 - 💼 [Connect on LinkedIn](http://www.linkedin.com/in/vasu-hirpara/)
 - 💌 [Email Me](mailto:vasuhirpara2998@gmail.com)
 
-
-## 📊 GitHub Stats
-![Vasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 > _“Automate. Monitor. Secure. Scale.”_
