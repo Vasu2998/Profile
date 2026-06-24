@@ -10,7 +10,7 @@ I specialize in Cloud Security, Platform Reliability, Observability, and AI-driv
 
 - IaC: Terraform, Ansible
 
-- Containers & Orchestration: Docker, Kubernetes
+- Containers & Orchestration: Docker, Kubernetes,OpenShift
 
 - Automation & Scripting: Bash, Shell, Python
 
@@ -64,7 +64,7 @@ I specialize in Cloud Security, Platform Reliability, Observability, and AI-driv
 
 - 💼 [Connect on LinkedIn](http://www.linkedin.com/in/vasu-hirpara/)
   
-- 💌 [Email Me](mailto:vasuhirpara2998@gmail.com)
+- 💌 [Email Me](mailto:vasuhirpara2998@gmail.com /vasuhirpara29@gmail.com)
 
 
 > _“Automate. Monitor. Secure. Scale.”_
